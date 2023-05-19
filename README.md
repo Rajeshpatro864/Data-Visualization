@@ -1,4 +1,4 @@
 # Data-Visualization
-I have conducted the survey among 1800+ respondent to understand the driving force of Gen'Z. 
-The future rely on GenZ and understanding the liking of GenZ is important for building holistics work environment for them. 
-This project aims to improves number of factors like Working preference, Sponsorship for Education, Rewards and Promotion.
+I conducted a survey among 1800+ respondents to understand the driving force of Gen Z.
+The future relies on Gen Z, and understanding their preferences is crucial for creating a holistic work environment for them.
+This project aims to improve a number of factors such as working preferences, sponsorship for education, rewards, and promotions.
